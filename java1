@@ -1,4 +1,8 @@
-systempublic class {
+
+public class {
 public static void main(String[] arg){
-System.out.println()[D""[DHello World");
-}}
+System.out.println(Hello World");
+a=10;
+b=20;
+c=a+b;
+System.out.println(c);
